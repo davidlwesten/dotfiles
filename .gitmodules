@@ -1,60 +1,6 @@
-[submodule ".vim/pack/plugins/start/asyncomplete.vim"]
-	path = .vim/pack/plugins/start/asyncomplete.vim
-	url = git@github.com:prabirshrestha/asyncomplete.vim.git
-[submodule ".vim/pack/plugins/start/asyncomplete-lsp.vim"]
-	path = .vim/pack/plugins/start/asyncomplete-lsp.vim
-	url = git@github.com:prabirshrestha/asyncomplete-lsp.vim.git
-[submodule ".vim/pack/plugins/start/vim-lsp-settings"]
-	path = .vim/pack/plugins/start/vim-lsp-settings
-	url = git@github.com:mattn/vim-lsp-settings.git
-[submodule ".vim/pack/plugins/start/vim-lsp"]
-	path = .vim/pack/plugins/start/vim-lsp
-	url = git@github.com:prabirshrestha/vim-lsp.git
 [submodule ".tmux/plugins/tpm"]
 	path = .tmux/plugins/tpm
 	url = git@github.com:tmux-plugins/tpm.git
 [submodule ".tmux/plugins/tmux-prefix-highlight"]
 	path = .tmux/plugins/tmux-prefix-highlight
 	url = git@github.com:tmux-plugins/tmux-prefix-highlight.git
-[submodule ".config/zsh/plugins/base16-shell"]
-	path = .config/zsh/plugins/base16-shell
-	url = git@github.com:chriskempson/base16-shell.git
-[submodule ".vim/pack/plugins/start/base16-vim"]
-	path = .vim/pack/plugins/start/base16-vim
-	url = git@github.com:chriskempson/base16-vim.git
-[submodule ".config/zsh/themes/repos/dracula.zsh-theme"]
-	path = .config/zsh/themes/repos/dracula.zsh-theme
-	url = https://github.com/dracula/zsh.git
-[submodule ".oh-my-zsh"]
-	path = .oh-my-zsh
-	url = git@github.com:ohmyzsh/ohmyzsh.git
-[submodule ".config/zsh/plugins/zsh-syntax-highlighting"]
-	path = .config/zsh/plugins/zsh-syntax-highlighting
-	url = git@github.com:zsh-users/zsh-syntax-highlighting
-[submodule ".vim/pack/plugins/start/lightline.vim"]
-	path = .vim/pack/plugins/start/lightline.vim
-	url = git@github.com:itchyny/lightline.vim
-[submodule ".vim/pack/plugins/start/rust.vim"]
-	path = .vim/pack/plugins/start/rust.vim
-	url = git@github.com:/rust-lang/rust.vim
-[submodule ".vim/pack/plugins/start/vim-unimpaired"]
-	path = .vim/pack/plugins/start/vim-unimpaired
-	url = git@github.com:/tpope/vim-unimpaired
-[submodule ".vim/pack/plugins/start/vim-surround"]
-	path = .vim/pack/plugins/start/vim-surround
-	url = git@github.com:/tpope/vim-surround
-[submodule ".vim/pack/plugins/start/vim-cpp-modern"]
-	path = .vim/pack/plugins/start/vim-cpp-modern
-	url = git@github.com:bfrg/vim-cpp-modern
-[submodule ".vim/pack/plugins/start/fzf.vim"]
-	path = .vim/pack/plugins/start/fzf.vim
-	url = git@github.com:junegunn/fzf.vim.git
-[submodule ".config/zsh/plugins/zsh-autocomplete"]
-	path = .config/zsh/plugins/zsh-autocomplete
-	url = git@github.com:marlonrichert/zsh-autocomplete.git
-[submodule ".config/zsh/plugins/zsh-completions"]
-	path = .config/zsh/plugins/zsh-completions
-	url = git@github.com:zsh-users/zsh-completions
-[submodule "fzf-tab"]
-	path = .config/zsh/plugins/fzf-tab
-	url = git@github.com:Aloxaf/fzf-tab
