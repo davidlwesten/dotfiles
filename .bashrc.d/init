@@ -1,0 +1,8 @@
+if [ -x /usr/bin/zoxide ]; then
+  eval "$(zoxide init bash)"
+fi
+
+if [ -x /usr/bin/fzf ]; then
+  eval "$(fzf --bash)"
+fi
+
