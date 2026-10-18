@@ -27,3 +27,7 @@ if [ -x /usr/bin/xdg-open ]; then
   alias open='xdg-open'
 fi
 
+if [ -x /usr/bin/step-cli ]; then
+  alias step=step-cli
+fi
+
